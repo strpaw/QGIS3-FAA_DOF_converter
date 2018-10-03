@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/faa_dof_converter" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
